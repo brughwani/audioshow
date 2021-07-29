@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "931492473664",
+    "project_id": "audioshow",
+    "storage_bucket": "audioshow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931492473664:android:d3ce35256f5db3805ba8a5",
+        "android_client_info": {
+          "package_name": "com.example.audio_show"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931492473664-gvjlh6mc2c9r4q6u7f2sjdh01eu809os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.audio_show",
+            "certificate_hash": "0f89d26aeaabcfb6f89b4e9898d6f2412fdb94e9"
+          }
+        },
+        {
+          "client_id": "931492473664-pq5ro3qcbksipej068g19l31oiaultk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkPLhCsyL3d_SWvXweyLFZlREOCmSs9uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931492473664-pq5ro3qcbksipej068g19l31oiaultk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
